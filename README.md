@@ -1,6 +1,6 @@
 # Physics-Constrained-Deep-Learning-Framework-for-Woven-Composite-Architecture-and-Modulus-Prediction
 
-02/18/2022
+09/26/2022 (Latest Update)
 
 By Haotian Feng, Sabarinathan P Subramaniyan, Hridyesh Tewani and Pavana Prabhakar
 
