@@ -1,9 +1,10 @@
-# Physics-Constrained-Deep-Learning-Framework-for-Woven-Composite-Architecture-and-Modulus-Prediction
+# Physics-Constrained-Neural-Network-for-the-Analysis-and-Feature-based-Optimization-of-Woven-Composite
 
 09/26/2022 (Latest Update)
 
-By Haotian Feng, Sabarinathan P Subramaniyan, Hridyesh Tewani and Pavana Prabhakar
+By Haotian Feng, Sabarinathan P Subramaniyan and Pavana Prabhakar
 
+Department of Mechanical Engineering
 University of Wisconsin - Madison
 
 This folder provides the code for implementing our proposed Neural Network frameworks as well as the training dataset. The details of the paper can be found at https://arxiv.org/pdf/2209.09154.pdf
