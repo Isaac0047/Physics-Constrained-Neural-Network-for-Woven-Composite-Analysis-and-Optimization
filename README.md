@@ -10,7 +10,7 @@ University of Wisconsin - Madison
 This folder provides the code for implementing our proposed Neural Network frameworks as well as the training dataset. The details of the paper can be found at https://arxiv.org/pdf/2209.09154.pdf
 
 ## Implementation
-In this repository, all frameworks are implemented using Tensorflow and Keras. To run the PCNN or baseline model frameworks, please download the code in the 'PCNN_Implementation' or 'Baseline_Model_implementation' folder, and also download the dataset from 'Dataset' folder into the same repository. 
+In this repository, all frameworks are implemented using Tensorflow and Keras. To run the PCNN or baseline model frameworks, please download the code in the 'PCNN_Implementation' or 'Baseline_Model_implementation' folder, and also download the dataset from 'Dataset' folder into the same repository. The dataset is stored in .npy format, trained Neural Network is saved in .h5 format, and the main framework are implemented in .py.
 
 >The DCNN framework for FDP is shown in paper Figure 7. 
 >
