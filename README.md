@@ -1,6 +1,6 @@
 # Physics-Constrained-Neural-Network-for-the-Analysis-and-Feature-based-Optimization-of-Woven-Composite
 
-09/26/2022 (Latest Update)
+12/03/2022 (Latest Update)
 
 By Haotian Feng, Sabarinathan P Subramaniyan and Pavana Prabhakar
 
