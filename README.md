@@ -12,7 +12,9 @@ This folder provides the code for implementing our proposed Neural Network frame
 ## Implementation
 In this repository, all frameworks are implemented using Tensorflow and Keras. To run the PCNN or baseline model frameworks, please download the code in the 'PCNN_Implementation' or 'Baseline_Model_implementation' folder, and also download the dataset from 'Dataset' folder into the same repository. 
 
-The DCNN framework for FDP is shown in paper Figure 7. PCNN framework (Material to Pattern) is shown in paper Figure 8, and PCNN framework (Pattern to Material) is shown in paper Figure 9. 
+>The DCNN framework for FDP is shown in paper Figure 7. 
+>PCNN framework (Material to Pattern) is shown in paper Figure 8. 
+>PCNN framework (Pattern to Material) is shown in paper Figure 9. 
 
 ## Citation
 Please cite our paper as:
