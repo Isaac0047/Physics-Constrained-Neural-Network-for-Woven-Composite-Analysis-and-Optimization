@@ -1,6 +1,6 @@
 **This folder contains the implementation of baseline models we considered in this research (Only for inverse prediction (BDPs))**
 
-*Trained CNN_models (FDP, paper Figure 7)*: 
+> Trained CNN_models (FDP, paper Figure 7): 
 
 Weave_CNN_model_E7.h5
 
