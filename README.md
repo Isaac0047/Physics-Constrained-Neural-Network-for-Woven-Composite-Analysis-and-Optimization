@@ -18,6 +18,9 @@ In this repository, all frameworks are implemented using Tensorflow and Keras. T
 >
 >PCNN framework (Pattern to Material) is shown in paper Figure 9. 
 
+## Graphical Abstract
+![pcnn](https://user-images.githubusercontent.com/62448186/221621644-53d2a352-5981-4cd7-8624-128e181ff9fa.png)
+
 ## Citation
 Please cite our paper as:
 
